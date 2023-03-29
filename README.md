@@ -1,2 +1,3 @@
-# crm-tool
-Customer Relationship Manager Tool using Java Spring
+# Next Gen LMS
+Next generation Learning Management System
+
